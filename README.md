@@ -10,7 +10,7 @@
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="150"> |
 | PL | FE | FE | FE |
-| [@leewonbin](https://github.com/leewonbin) | [@zzz5678](https://github.com/zzx5678) | [@jihoooooooon](https://github.com/jihoooooooon) | [@WoongE12](https://github.com/WoongE12) |
+| [@leewonbin](https://github.com/leewonbin) | [@zzz5678](https://github.com/zzx5678) | [@WoongE12](https://github.com/WoongE12) | [@jihoooooooon](https://github.com/jihoooooooon) |
 
 <br/>
 <br/>
