@@ -1,30 +1,16 @@
-![메인1](https://github.com/user-attachments/assets/87850a30-b446-412e-96d5-3d0553becb6d)
-
-<br/>
-<br/>
-
-# 0. Getting Started (시작하기)
-```bash
-$ npm start
-```
-[서비스 링크](https://club-project-one.vercel.app/)
-
-<br/>
-<br/>
-
 # 1. Project Overview (프로젝트 개요)
-- 프로젝트 이름: 모여봐요 동아리숲!
-- 프로젝트 설명: 전국 대학 동아리 일정관리 및 홍보 커뮤니티
+- 프로젝트 이름: ExFinder
+- 프로젝트 설명: 환율 정보와 실시간 환율 알림을 받을 수 있는 웹 사이트
 
 <br/>
 <br/>
 
 # 2. Team Members (팀원 및 팀 소개)
-| 이동규 | 신유승 | 김나연 | 이승준 |
+| 이원빈 | 김정호 | 최현웅 | 함지훈 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="150"> |
 | PL | FE | FE | FE |
-| [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
+| [@leewonbin](https://github.com/leewonbin) | [@zzz5678](https://github.com/zzx5678) | [@jihoooooooon](https://github.com/jihoooooooon) | [@WoongE12](https://github.com/WoongE12) |
 
 <br/>
 <br/>
