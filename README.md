@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/be5deabd-3ee1-483d-b265-fa8ea95ac147)
+![메인1](https://github.com/user-attachments/assets/5f3e278e-d2d0-44c3-bf91-dfcc3226ac9e)
 
 <br/>
 <br/>
