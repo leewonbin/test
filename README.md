@@ -91,9 +91,22 @@
 <br/>
 
 ## Tools
+<div>
 <img src="https://img.shields.io/badge/SqlDeveloper-B3CAEB?style=for-the-badge&logo=sqldeveloper&logoColor=white">
 <img src="https://img.shields.io/badge/SourceTree-2684FF?style=for-the-badge&logo=sourcetree&logoColor=white">
 <img src="https://img.shields.io/badge/STS-68B237?style=for-the-badge&logo=sts&logoColor=white">
+</div>
+
+<br/>
+
+## skill or API
+<div>
+<img src="https://img.shields.io/badge/KakaoMapAPI-FAE100?style=for-the-badge&logo=kakao&logoColor=white">
+<img src="https://img.shields.io/badge/CoolSMS-5E97D1?style=for-the-badge&logo=sms&logoColor=white">
+<img src="https://img.shields.io/badge/SpringScheduler-7DBA56?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/WebCrawling-0B76CA?style=for-the-badge&logo=web&logoColor=white">
+<img src="https://img.shields.io/badge/WebSocket-F76300?style=for-the-badge&logo=web&logoColor=white">
+</div>
 
 <br/>
 
