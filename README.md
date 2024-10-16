@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-# 기술 스택
+# 기술 스택 ⚙
 
 ## Frotend
 ![image](https://github.com/user-attachments/assets/59519084-0a14-45c5-8fb3-9219e600b6bf)
