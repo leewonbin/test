@@ -1,11 +1,11 @@
-# 1. Project Overview (프로젝트 개요)
+# 1. 프로젝트 소개
 - 프로젝트 이름: ExFinder
 - 프로젝트 설명: 환율 정보와 실시간 환율 알림을 받을 수 있는 웹 사이트
 
 <br/>
 <br/>
 
-# 2. Team Members (팀원 및 팀 소개)
+# 2. 팀원 및 팀 소개
 | 이원빈 | 김정호 | 최현웅 | 함지훈 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="150"> |
@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-# 3. Key Features (주요 기능)
+# 3. 주요 기능
 - **회원가입**:
   - 회원가입 시 DB에 유저정보가 등록됩니다.
 
@@ -43,13 +43,13 @@
 <br/>
 <br/>
 
-# 4. Tasks & Responsibilities (작업 및 역할 분담)
+# 4. 작업 및 역할 분담
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| 이동규    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="100"> | <ul><li>프로젝트 계획 및 관리</li><li>팀 리딩 및 커뮤니케이션</li><li>커스텀훅 개발</li></ul>     |
-| 신유승   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="100">| <ul><li>메인 페이지 개발</li><li>동아리 만들기 페이지 개발</li><li>커스텀훅 개발</li></ul> |
-| 김나연   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="100">    |<ul><li>홈 페이지 개발</li><li>로그인 페이지 개발</li><li>동아리 찾기 페이지 개발</li><li>동아리 프로필 페이지 개발</li><li>커스텀훅 개발</li></ul>  |
-| 이승준    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="100">    | <ul><li>회원가입 페이지 개발</li><li>마이 프로필 페이지 개발</li><li>커스텀훅 개발</li></ul>    |
+| 이원빈    |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="100"> | <ul><li>프로젝트 전체 관리</li><li>환율 정보 가져오기</li><li>환율 알림 기능</li><li>환율 계산기</li></ul>     |
+| 김정호   |  <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="100">| <ul><li>로그인 및 찾기</li><li>차트</li><li>뉴스 크롤링</li><li>세계 지도</li></ul> |
+| 최현웅   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="100">    |<ul><li>게시판</li><li>고객센터</li><li>환율 조회 테이블</li><li>오늘의 환율 추천</li></ul>  |
+| 함지훈    |  <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="100">    | <ul><li>마이페이지</li><li>관리자 페이지</li><li>회원가입</li><li>계정관리</li><li>주변 환전 은행 찾기</li></ul>    |
 
 <br/>
 <br/>
