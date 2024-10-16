@@ -1,4 +1,4 @@
-![메인1](https://github.com/user-attachments/assets/5f3e278e-d2d0-44c3-bf91-dfcc3226ac9e)
+![메인1](https://github.com/user-attachments/assets/87850a30-b446-412e-96d5-3d0553becb6d)
 
 <br/>
 <br/>
