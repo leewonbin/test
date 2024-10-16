@@ -91,9 +91,9 @@
 <br/>
 
 ## Tools
-<img src="https://img.shields.io/badge/SqlDeveloper-B3CAEB?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/SourceTree-2684FF?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/STS-B3CAEB?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/SqlDeveloper-B3CAEB?style=for-the-badge&logo=sqldeveloper&logoColor=white">
+<img src="https://img.shields.io/badge/SourceTree-2684FF?style=for-the-badge&logo=sourcetree&logoColor=white">
+<img src="https://img.shields.io/badge/STS-68B237?style=for-the-badge&logo=sts&logoColor=white">
 
 <br/>
 
