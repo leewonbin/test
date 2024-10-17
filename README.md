@@ -73,6 +73,7 @@
 # 주요 기능
 - **회원가입**:
   - 회원가입 시 DB에 유저정보가 등록됩니다.
+  <a href="https://github.com/leewonbin/test/blob/master/preview.md">preview.md</a>
 
 - **로그인**:
   - 사용자 인증 정보를 통해 로그인합니다.
