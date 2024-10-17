@@ -11,9 +11,28 @@
 <br/><br/>
 
 ## 기능 소개 - 로그인
-로그인 | 
-:-----:|
-![login](https://github.com/user-attachments/assets/bfa186bc-27b1-4354-bd49-8f2c480a7e91) |
+
+<table>
+  <tr align="center">
+    <td colspan="2">로그인</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+       <img src="https://github.com/user-attachments/assets/6b570dd9-a5b7-4ba6-bb7b-077ccfabc7e1" alt="login"></td>   
+    </td>
+   </tr>
+  <tr align="center">
+    <td>아이디 저장</td>
+    <td>ID/PW 찾기</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/73e32532-4e0c-4f9e-8599-73491dbe3cb5" alt="id_save"></td>
+    <td><img src="https://github.com/user-attachments/assets/6fbcff3a-dff0-4cbe-adf4-f98c7125020f" alt="pw_find"></td>
+  </tr>
+</table>
+
+- 홈페이지 내 오른쪽 상단 로그인 버튼을 눌러 로그인 화면에 진입할 수 있고 아이디 저장, 자동 로그인, ID/PW찾기 기능을 구현했습니다.
+
 
 <br/><br/>
 
