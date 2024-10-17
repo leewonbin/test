@@ -27,7 +27,7 @@
 | <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="150"> |
 | PL | FE | FE | FE |
 | [@leewonbin](https://github.com/leewonbin) | [@zzz5678](https://github.com/zzx5678) | [@WoongE12](https://github.com/WoongE12) | [@jihoooooooon](https://github.com/jihoooooooon) |
-| <ul align="left"><li>프로젝트 전체 관리</li><li>환율 정보 가져오기</li><li>환율 알림 기능</li><li>환율 계산기</li></ul> | <ul><li>로그인 및 찾기</li><li>차트</li><li>뉴스 크롤링</li><li>세계 지도</li></ul> | <ul><li>게시판</li><li>고객센터</li><li>환율 조회 테이블</li><li>오늘의 환율 추천</li></ul> | <ul><li>마이페이지</li><li>관리자 페이지</li><li>회원가입</li><li>계정관리</li><li>주변 환전 은행 찾기</li></ul> |
+| <ul align="left"><li>프로젝트 전체 관리</li><li>환율 정보 가져오기</li><li>환율 알림 기능</li><li>환율 계산기</li></ul> | <ul align="left"><li>로그인 및 찾기</li><li>차트</li><li>뉴스 크롤링</li><li>세계 지도</li></ul> | <ul align="left"><li>게시판</li><li>고객센터</li><li>환율 조회 테이블</li><li>오늘의 환율 추천</li></ul> | <<ul align="left"><li>마이페이지</li><li>관리자 페이지</li><li>회원가입</li><li>계정관리</li><li>주변 환전 은행 찾기</li></ul> |
 
 <br/>
 <br/>
