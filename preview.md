@@ -2,7 +2,7 @@
 실행 화면 캡쳐한 이미지들을 모아보았습니다.
     
 ## 기능 소개 - 회원가입
-<a href="https://github.com/leewonbin/test/edit/master/README.md#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
+<a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
 회원가입  | 
 :-----: |
 ![join](https://github.com/user-attachments/assets/6977bbd7-842d-49a3-a103-98e03bfba260) |
