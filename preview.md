@@ -11,6 +11,7 @@
 <br/><br/>
 
 ## 기능 소개 - 로그인
+<a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
 
 <table>
   <tr align="center">
@@ -37,6 +38,7 @@
 <br/><br/>
 
 ## 기능 소개 - 커뮤니티
+<a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
 로그인 | 
 :-----:|
 ![login](https://github.com/user-attachments/assets/a1368759-589d-4d77-9375-b36e39e08d20) |
@@ -44,6 +46,7 @@
 <br/><br/>
 
 ## 기능 소개 - 메인페이지
+<a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
 메인페이지 | 
 :-----:|
 ![consumeSearch](https://user-images.githubusercontent.com/60867063/172382714-6aefe836-cb68-4e11-af22-1e166b8f4ca4.gif) |
@@ -51,6 +54,7 @@
 <br/><br/>
 
 ## 기능 소개 - 상세페이지
+<a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
 상세페이지 | 
 :-----:|
 ![consumeSearch](https://user-images.githubusercontent.com/60867063/172382714-6aefe836-cb68-4e11-af22-1e166b8f4ca4.gif) |
@@ -58,6 +62,7 @@
 <br/><br/>
 
 ## 기능 소개 - 마이페이지
+<a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
 마이페이지 | 
 :-----:|
 ![consumeSearch](https://user-images.githubusercontent.com/60867063/172382714-6aefe836-cb68-4e11-af22-1e166b8f4ca4.gif) |
@@ -65,6 +70,7 @@
 <br/><br/>
 
 ## 기능 소개 - 관리자페이지
+<a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
 관리자페이지 | 
 :-----:|
 ![consumeSearch](https://user-images.githubusercontent.com/60867063/172382714-6aefe836-cb68-4e11-af22-1e166b8f4ca4.gif) |
@@ -72,9 +78,25 @@
 <br/><br/>
 
 ## 기능 소개 - 실시간 환율 알림
-실시간 환율 알림 | 
-:-----:|
-![consumeSearch](https://user-images.githubusercontent.com/60867063/172382714-6aefe836-cb68-4e11-af22-1e166b8f4ca4.gif) |
+<a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
+<table>
+    <tr align="center">
+        <td colspan="2">환율 설정</td>
+    </tr>
+    <tr>
+        <td colspan="2"><img src="https://github.com/user-attachments/assets/c7df34c1-0802-482d-a73a-db61b0735ebc"></td>
+    </tr>
+    <tr align="center">
+        <td>웹페이지 알림</td>
+        <td>메시지 알림</td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://github.com/user-attachments/assets/08630588-8aab-4a22-867a-cce3a2fe179c"></td>
+        <td><img src="https://github.com/user-attachments/assets/6d7bd03e-f4d1-418f-9419-1d8381330a6b"></td>
+    </tr>
+</table>
+- 상세페이지를 통해 알림 설정을 하고 목표치에 도달하면 웹페이지 헤더에 있는 알림 점멸과 SMS로 사용자에게 알림이 줍니다.
+
 
 <br/><br/>
 
