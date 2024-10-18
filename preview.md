@@ -39,9 +39,20 @@
 
 ## 기능 소개 - 커뮤니티
 <a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
-로그인 | 
-:-----:|
-![login](https://github.com/user-attachments/assets/a1368759-589d-4d77-9375-b36e39e08d20) |
+<table>
+    <tr align="center">
+        <td>게시글</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/8f8e710c-d6f4-4101-b9ea-b1ba9bf3214d"></td>
+    </tr>  
+    <tr align="center">
+        <td>댓글</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/802597f7-ca16-4419-8b8b-7ae0d1e5baae"></td>
+    </tr>
+</table>
 
 <br/><br/>
 
@@ -63,11 +74,12 @@
 
 <br/><br/>
 
+
 ## 기능 소개 - 상세페이지
 <a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
 상세페이지 | 
 :-----:|
-![consumeSearch](https://user-images.githubusercontent.com/60867063/172382714-6aefe836-cb68-4e11-af22-1e166b8f4ca4.gif) |
+![detail](https://github.com/user-attachments/assets/efe7b22a-aa0e-4e8a-a50e-d8efb9072c1f) |
 
 <br/><br/>
 
