@@ -49,7 +49,17 @@
 <a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5">README로 돌아가기</a>
 메인페이지 | 
 :-----:|
-![consumeSearch](https://user-images.githubusercontent.com/60867063/172382714-6aefe836-cb68-4e11-af22-1e166b8f4ca4.gif) |
+![mainPage](https://github.com/user-attachments/assets/1e2d049c-b7b4-42a5-91b0-c4610d494099) |
+- 메인 페이지를 구상할 때, 환율 사이트에 방문하는 유저들은 물건을 구매하려는 것이 아니라 원하는 정보를 신속하게 얻고자 한다는 점에 중점을 두었습니다. 이를 반영해, 메인 페이지는 직관적이면서도 다양한 정보를 제공하도록 구성했습니다.
+
+- <strong>환율 계산기</strong> : 시간별로 웹 크롤링을 통해 최신 환율 정보를 가져온 뒤 Ajax를 통해 계산기에 실시간 환율 정보를 적용시켰습니다.
+
+- <strong>시간별 변동 추이 차트</strong> : 구글 차트를 활용해 하루 동안 변동되는 환율 정보를 직관적으로 볼 수 있게 하였습니다.
+
+- <strong>전일비 지도</strong> : 사이트에서 지원하는 모든 통화의 전일 대비 변동을 한눈에 확인할 수 있습니다.
+
+- <strong>실시간 환율 표</strong> : 사이트에서 지원하는 모든 통화의 정보를 표로 한눈에 확인 할 수 있습니다.
+
 
 <br/><br/>
 
