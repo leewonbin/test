@@ -11,12 +11,12 @@
 <br/>
 
 # 목차 📚
-- <a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%86%8C%EA%B0%9C-">프로젝트 소개</a>
+- <a href="https://github.com/leewonbin/test?tab=readme-ov-file#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C-">프로젝트 소개</a>
 - <a href="https://github.com/leewonbin/test?tab=readme-ov-file#%ED%8C%80%EC%9B%90%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%97%AD%ED%95%A0-">팀원소개 및 역할
 - <a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-">기술 스택
 - <a href="https://github.com/leewonbin/test?tab=readme-ov-file#erd-">ERD
-- <a href="https://github.com/leewonbin/test?tab=readme-ov-file#erd-">주요 기능
-- <a href="https://github.com/leewonbin/test?tab=readme-ov-file#erd-">후기
+- <a href="https://github.com/leewonbin/test?tab=readme-ov-file#%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-">주요 기능
+- <a href="https://github.com/leewonbin/test?tab=readme-ov-file#%ED%9B%84%EA%B8%B0-">후기
 <br/>
 <br/>
 
