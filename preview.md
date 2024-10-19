@@ -175,4 +175,4 @@
 
 <br/><br/>
 
-<a href="https://github.com/leewonbin/test/edit/master/preview.md#exfinder-%EC%8B%A4%ED%96%89-%EB%AA%A8%EC%8A%B5-%EB%B3%B4%EA%B8%B0">맨위로</a>
+<a href="https://github.com/leewonbin/test/blob/master/preview.md#exfinder-%EC%8B%A4%ED%96%89-%EB%AA%A8%EC%8A%B5-%EB%B3%B4%EA%B8%B0">맨위로</a>
