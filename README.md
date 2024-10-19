@@ -102,15 +102,15 @@
 
 - **마이 페이지**
   - 내 프로필, 회원 정보 수정, 회원 탈퇴를 진행 할 수 있습니다.<br>
-  <a href="https://github.com/leewonbin/test/blob/master/preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80">기능보기</a>
+  <a href="https://github.com/leewonbin/test/blob/master/preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80">기능보기</a>
 
 - **관리자 페이지**
   - 회원관리, 계정권한 관리, 게시판 관리, 환율 업데이트 기능을 지원합니다.<br>
-  <a href="https://github.com/leewonbin/test/blob/master/preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80">기능보기</a>
+  <a href="https://github.com/leewonbin/test/blob/master/preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EA%B4%80%EB%A6%AC%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80">기능보기</a>
     
 - **실시간 환율 알림**
   - 사용자가 환율 알림을 설정하면 사용자가 설정한 목표치에 도달할 경우 웹 페이지 내 헤더와 회원정보에 등록된 전화번호로 SMS를 통해 사용자에게 알림을 줍니다.<br>
-  <a href="https://github.com/leewonbin/test/blob/master/preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80">기능보기</a>
+  <a href="https://github.com/leewonbin/test/blob/master/preview.md#%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C---%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%99%98%EC%9C%A8-%EC%95%8C%EB%A6%BC">기능보기</a>
     
 
 <br/>
